@@ -14,6 +14,8 @@ A repository of free resources to teach yourself mathematics.
 
 * Krotov Problems in Physics
 
+    * https://ia801603.us.archive.org/8/items/ProblemsInPhysicsSSKrotov/Problems%20In%20Physics%20SS%20Krotov.pdf 
+
 * Khan Academy
 
 
