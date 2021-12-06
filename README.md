@@ -18,4 +18,11 @@ A repository of free resources to teach yourself mathematics.
 
 * Khan Academy
 
+    * https://www.youtube.com/c/khanacademy/playlists
+
+
+
+## Contact
+
+Soumya Banerjee
 
