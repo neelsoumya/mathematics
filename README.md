@@ -20,6 +20,9 @@ A repository of free resources to teach yourself mathematics.
 
     * https://www.youtube.com/c/khanacademy/playlists
 
+* Das Mukherjee Calculus
+
+   * https://archive.org/details/integral-calculus-including-differential-equations_202102/page/33/mode/2up
 
 
 ## Contact
